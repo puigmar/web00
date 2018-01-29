@@ -7,11 +7,12 @@
     "type": "git",
     "url": "https://github.com/pjmolina/nodejs-static-web-server"
   },
+  "license": "MIT",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "connect": "2.19.6"
+    "express": "^4.16.2"
   },
   "engines": {
     "node": "8.x"
