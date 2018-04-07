@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pjmolina/nodejs-static-web-server"
+    "url": "https://github.com/puigmar/web00"
   },
   "license": "MIT",
   "scripts": {
